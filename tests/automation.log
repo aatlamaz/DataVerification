@@ -1,0 +1,3 @@
+08/18/2019 10:22:13 AM - SeleniumDriver - INFO: Element not found with locator: //button[@class='w3-green w3-btn'] and  locatorType: xpath
+08/18/2019 10:22:13 AM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='w3-green w3-btn'] locatorType: xpath
+08/18/2019 10:41:58 AM - SeleniumDriver - INFO: Element not found with locator: //div[@class='CodeMirror-lines'] and  locatorType: xpath
